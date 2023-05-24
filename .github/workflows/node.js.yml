@@ -34,3 +34,12 @@ jobs:
     #   run: |
     #     npm install -g firebase-tools
     #     firebase deploy --token "${{ secrets.FIREBASE_TOKEN }}" --non-interactive --only hosting  --project simple-join
+
+    - name: Deploy production to Netlify
+      uses: South-Paw/action-netlify-deploy@v1.2.0
+      with:
+        github-token: ${{ secrets.TOKEN }}
+        netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        netlify-site-id: ${{ secrets.NETLIFY_SITE_ID }}
+        build-dir: './build'
+        comment-on-commit: true
