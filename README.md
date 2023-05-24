@@ -1,5 +1,11 @@
 [![Node.js CI](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/node.js.yml/badge.svg)](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/node.js.yml)
 
+[![Deploy to Firebase Hosting on merge](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/firebase-hosting-merge.yml)
+
+[![Deploy to Firebase Hosting on PR](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/firebase-hosting-pull-request.yml/badge.svg)](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/firebase-hosting-pull-request.yml)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b1474a6-e9a8-4cb3-bd0e-bf19c37b882c/deploy-status)](https://app.netlify.com/sites/boisterous-florentine-ca3092/deploys)
+
 # Steps
 ```
 npx create-react-app my-app --template typescript
