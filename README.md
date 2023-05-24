@@ -1,3 +1,15 @@
+[![Node.js CI](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/node.js.yml/badge.svg)](https://github.com/kaiwanyawit-chawankul/simple-join/actions/workflows/node.js.yml)
+
+# Steps
+```
+npx create-react-app my-app --template typescript
+```
+
+```
+firebase login:ci
+firebase init
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
