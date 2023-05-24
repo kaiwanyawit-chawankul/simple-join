@@ -1,1 +1,6 @@
-{}
+{
+  "projects": {
+    "simple-join": "simple-join",
+    "default": "simple-join"
+  }
+}
