@@ -6,6 +6,10 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6b1474a6-e9a8-4cb3-bd0e-bf19c37b882c/deploy-status)](https://app.netlify.com/sites/boisterous-florentine-ca3092/deploys)
 
+# sites
+https://simple-join.web.app/
+https://main--boisterous-florentine-ca3092.netlify.app/
+
 # Steps
 ```
 npx create-react-app my-app --template typescript
